@@ -1,0 +1,4 @@
+Abrir explorador Chrome. 
+Descomprimir cintenido de Archivo Sanatorio. 
+Abrir carpeta Sanatorio español (Ya descomprimida).
+Arrastrar archivo index y soltar sobre chrome.
